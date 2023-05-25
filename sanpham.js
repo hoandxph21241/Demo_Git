@@ -1,1 +1,2 @@
-console.log('Chức Năng Hiển Thị Sản Phẩm ');
+// console.log('Chức Năng Hiển Thị Sản Phẩm ');
+var a='Hiển Thị Sản Phẩm';
